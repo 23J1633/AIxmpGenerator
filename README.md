@@ -1,9 +1,9 @@
 # AI XMP Generator 📸
 
+**AI XMP Generator** 是一款基于人工智能的 $\color{green}{\text{RAW}}$ 摄影 $\color{red}{\text{后期预处理}}$ 辅助工具。它能够通过深度分析 RAW 图片的内容与元数据，结合用户给出的风格指令（如“电影感”、“复古胶片”、“明亮清新”），自动生成适用于 Adobe Camera Raw (ACR) 和 Lightroom 的 `.xmp` 调色预设文件。
 
-**AI XMP Generator** 是一款基于人工智能的<span style="color:green"> RAW </span>摄影<span style="color:red">后期预处理</span>辅助工具。它能够通过深度分析 RAW 图片的内容与元数据，结合用户给出的风格指令（如“电影感”、“复古胶片”、“明亮清新”），自动生成适用于 Adobe Camera Raw (ACR) 和 Lightroom 的 `.xmp` 调色预设文件。
+> **告别繁琐的参数调整，让 AI 成为你的 $\color{red}{\text{后期预处理}}$ 助理。**
 
-> **告别繁琐的参数调整，让 AI 成为你的<span style="color:red">后期预处理</span>助理。**
 
 ---
 
@@ -12,6 +12,11 @@
 ![主界面截图](image/image1.png)
 
 ![设置界面截图](image/image2.png)
+
+### 处理照片展示
+![处理示例](image/image3.jpg)
+![处理示例](image/image4.jpg)
+![处理示例](image/image5.jpg)
 
 ---
 
