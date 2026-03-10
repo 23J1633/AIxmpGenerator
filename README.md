@@ -88,7 +88,7 @@ pip install PyQt6 rawpy Pillow requests exifread qtawesome
 
 ## ⚠️ 注意事项
 
--   **API 消耗**：处理一张图片会调用两次 API（一次分析图片，一次生成 JSON），请注意你的 Token 使用情况（实际使用国内服务商的gemini-3-flash-preview处理，大约0，08元一张）。
+-   **API 消耗**：处理一张图片会调用两次 API（一次分析图片，一次生成 JSON），请注意你的 Token 使用情况（实际使用国内服务商的gemini-3-flash-preview处理，大约0.08元一张）。
 -   **图片隐私**：本工具会上传一张经过压缩和缩放的临时 JPG 预览图（默认质量 80，长边 1024px）到 AI 服务器进行视觉分析。
 -   **RAW 兼容性**：支持大多数主流相机厂商的 RAW 格式，若遇到无法读取的文件，请尝试转换为 `.DNG`。
 
